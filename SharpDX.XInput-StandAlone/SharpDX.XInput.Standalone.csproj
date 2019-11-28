@@ -47,8 +47,8 @@
     <Compile Include="XInput14.cs" />
     <Compile Include="XInput910.cs" />
     <Compile Include="Functions.cs" />
-    <Compile Include="Structures.cs" />
-    <Compile Include="Structures1.cs" />
+    <Compile Include="Capabilities.cs" />
+    <Compile Include="Vibration.cs" />
     <Compile Include="AssemblyDoc.cs" />
     <Compile Include="GamepadButtonFlags.cs" />
     <Compile Include="IXInput.cs" />
