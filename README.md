@@ -18,4 +18,4 @@ var state = controller.GetState();
 ````
 ## Acknowledgments
 
-SharpDX was originally developed by the [SharkDX Team](http://sharpdx.org/).
+SharpDX.XInput was originally developed by the [Alexandre Mutel](https://github.com/sharpdx/SharpDX) as part of [SharpDX](http://sharpdx.org/).
